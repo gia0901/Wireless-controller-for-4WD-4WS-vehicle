@@ -13,4 +13,4 @@
 - Testing video:
 
 # Overview of the controller:
-
+- User Arduino IDE to open the .ino file.
